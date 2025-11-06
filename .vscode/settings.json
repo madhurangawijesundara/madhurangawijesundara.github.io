@@ -1,0 +1,6 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "livePreview.showServerStatusNotifications": true,
+    "livePreview.tasks.runTaskWithExternalPreview": true
+}
